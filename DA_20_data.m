@@ -7,7 +7,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 classdef DA_20_data
-    properties (Access = private)
+    properties (SetAccess = private, GetAccess = public)
         % These values descrube the dataset as a whole
         file_source                 % String containing the path to the original wav file
         data_table                  % Timetable of samples for all active channels
@@ -556,4 +556,3 @@ classdef DA_20_data
         end
     end   
 end
-        
