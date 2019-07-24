@@ -1,5 +1,5 @@
 # RION-DA-20-Adaption
-Making the RION DA-20 vibration/noise sensor usable even if you don't have access to the software.
+Making the RION DA-20 vibration/noise sensor usable even if you don't have access to the proprietary software.
 
 RION DA-20 Manual: https://www.viaxys.com/app/download/10048456/DA-20+Instruction+Manual+40750.pdf
 
